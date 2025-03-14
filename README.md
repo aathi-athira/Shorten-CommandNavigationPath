@@ -1,5 +1,7 @@
-# Shorten-CommandNavigationPath
+# Navigation Path Customization & Restoration Guide for the Terminal
 How to shorten the long navigation path in your terminal by customizing your shell prompt. 
+
+# Navigation Path Customization
 
 ## 🎨 Step 1: Create or Edit Your PowerShell Profile
 
@@ -60,7 +62,7 @@ instead of the full path:
 PS C:\Users\YourUsername\Documents\MyProject>
 ```
 
-# PowerShell Prompt Customization & Restoration Guide
+# Restoration Guide
 
 ##  1. Temporarily Restore the Default Prompt
 
